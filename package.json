@@ -4,14 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server.js"
-  },
-  "nodemonConfig": {
-    "ext": "js",
-    "ignore": [
-      "db.json"
-    ],
-    "delay": "2"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
