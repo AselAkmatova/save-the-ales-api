@@ -14,6 +14,10 @@ db.defaults(defaultData).write();
 
 app.use(express.json());
 
+app.get("/", (req, res) => {
+  res.send("save the ales");
+});
+
 app.get("/me", auth.me);
 app.post("/signin", auth.signin);
 app.post("/signup", auth.signup);
