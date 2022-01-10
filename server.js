@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-const port = 1717;
+const port = process.env.PORT || 1717;
 const defaultData = require("./db/defaultData");
 const cors = require("cors");
 const auth = require("./routes/auth");
