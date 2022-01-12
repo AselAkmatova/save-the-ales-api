@@ -16,7 +16,13 @@ module.exports = {
       },
     },
   ],
-  contacts: [{ email: "info@kg", phone: "999511", address: "Tynystanova" }],
+  contacts: [
+    {
+      email: "save-the-ales-bishkek@gmail.com",
+      phone: "996000000000",
+      address: "196 Tynystanova street, Bishkek",
+    },
+  ],
   eats_categories: eats.categories,
   eats_dishes: eats.dishes,
   order: order.main,
