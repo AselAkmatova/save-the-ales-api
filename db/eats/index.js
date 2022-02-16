@@ -24,14 +24,6 @@ module.exports = {
 
   dishes: [
     {
-      id: "UYdjeu766",
-      name: "Гренки с яйцом",
-      img: "https://images.unsplash.com/photo-1533089860892-a7c6f0a88666?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80",
-      desc: "3 штуки",
-      price: 125,
-      categoryId: "4g4joeu70",
-    },
-    {
       id: "rtTRG7hH",
       name: "Овсяная каша с ягодами",
       img: "https://images.unsplash.com/photo-1587678711204-ca6d3d2f1f3b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=668&q=80",
@@ -83,24 +75,24 @@ module.exports = {
 
     {
       id: "Uddhey33h",
-      name: "Томатный суп",
-      img: "https://images.unsplash.com/photo-1578020190125-f4f7c18bc9cb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+      name: "Блонд эль",
+      img: "https://images.unsplash.com/photo-1632173517757-1e87c79de596?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
       desc: null,
       price: 150,
       categoryId: "21hyGGDet2",
     },
     {
       id: "keYU7ducccd",
-      name: "Чечевичный суп",
-      img: "https://images.unsplash.com/photo-1605909388460-74ec8b204127?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      name: "Кирк",
+      img: "https://images.unsplash.com/photo-1597930715511-bc6248bba27b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
       desc: null,
       price: 180,
       categoryId: "21hyGGDet2",
     },
     {
       id: "POdbde93",
-      name: "Французский сырный суп",
-      img: "https://images.unsplash.com/photo-1602563388144-9a37442e6e42?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1100&q=80",
+      name: "Стаут",
+      img: "https://images.unsplash.com/photo-1574938387777-a145fb8029a5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
       desc: null,
       price: 110,
       categoryId: "21hyGGDet2",
@@ -184,8 +176,8 @@ module.exports = {
 
     {
       id: "slhHGT73hdj",
-      name: "Крем суп из шампиньонов",
-      img: "https://images.unsplash.com/photo-1610725663727-08695a1ac3ff?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      name: "Золотой Эль",
+      img: "https://images.unsplash.com/photo-1558642891-54be180ea339?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
       desc: null,
       price: 200,
       categoryId: "21hyGGDet2",
