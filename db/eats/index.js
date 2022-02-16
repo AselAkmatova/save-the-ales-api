@@ -76,7 +76,7 @@ module.exports = {
     {
       id: "Uddhey33h",
       name: "Блонд эль",
-      img: "https://images.unsplash.com/photo-1632173517757-1e87c79de596?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      img: "https://images.unsplash.com/photo-1630446070374-df1ec648ac65?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80",
       desc: null,
       price: 150,
       categoryId: "21hyGGDet2",
@@ -92,7 +92,7 @@ module.exports = {
     {
       id: "POdbde93",
       name: "Стаут",
-      img: "https://images.unsplash.com/photo-1574938387777-a145fb8029a5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      img: "https://images.unsplash.com/photo-1563701130079-549c03a05681?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
       desc: null,
       price: 110,
       categoryId: "21hyGGDet2",
